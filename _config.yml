@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/thesis_public"
-url: "https://tinate.github.io"
+baseurl: ""
+url: "https://tinate.github.io/thesis_public"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Reader Review Networks                                    # site's title
